@@ -1,6 +1,6 @@
 ignore:
   cves:
-    'CVE-2024-45590':
+    'CVE-2024-45591':
       reason: linda's reason
 exclude:
   paths:
