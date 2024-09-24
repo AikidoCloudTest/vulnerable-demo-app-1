@@ -1,7 +1,7 @@
 ignore:
   cves:
-    'CVE-2024-45591':
+    'CVE-2024-24025':
       reason: linda's reason
 exclude:
   paths:
-    - package-lock.json
+    - package.json
