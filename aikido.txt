@@ -4,4 +4,4 @@ ignore:
       reason: linda's reason
 exclude:
   paths:
-    - package-lock.json
+    - packages/app/package.json
