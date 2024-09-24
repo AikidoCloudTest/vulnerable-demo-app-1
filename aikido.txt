@@ -1,0 +1,7 @@
+ignore:
+  cves:
+    'CVE-2024-45591':
+      reason: linda's reason
+exclude:
+  paths:
+    - package-lock.json
